@@ -1,6 +1,52 @@
 # Data-Science-101
 Knowledge base, info, reference related to data science
 
+Data Engineer
+  - Data modeling techniques
+  - Relational and non-relational database theory and practice
+  - Database clustering tools and techniques
+  - ETL design
+  - Architectural projections
+
+Data Visualization tools
+   - Excel
+   - Tableau
+   - Qlikview/QlikSense
+   - Power BI
+   - SAS BI
+   - SAP BI
+   - Microstrategy
+   - Domo
+
+
+Applied Mathematics
+   - Linear Algebra
+   - Statistics
+   - Calculus
+
+ML algorithm
+  - Linear Regression
+  - Logistic Regression
+  - Decision Trees
+  - KNN (K- Nearest Neigbours)
+  - K-Means
+  - Naive Bayes
+  - Dimensianality Reduction 
+
+  Advance Algorithm  
+  - Random Forests
+  - Dimensianality Reduction Techniques   
+  - support vector machine
+  - Gradient Boosting Machines
+  - XGBoost
+
+Python library
+   - Numpy
+   - Pandas
+   - MatplotLib
+   - Scikit learn
+   - bokeh
+
 
 Reference and links to anything about Data Science..
 
