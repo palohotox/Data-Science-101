@@ -57,6 +57,7 @@ https://www.datacamp.com/  - Learn Data science online
 https://www.coursera.org/browse/data-science - Online courses on data science
 https://www.kdnuggets.com/ -  Data Science Software/tutorials/discussion
 https://365datascience.com/ - Online courses
+https://course.spacy.io/ - Advance NLP
 
 
 Experts and Social Influencer
