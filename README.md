@@ -64,4 +64,5 @@ Experts and Social Influencer
 
 Gregory Piatestsky - https://www.linkedin.com/in/gpiatetsky/
 Vincent GranVille  - https://www.linkedin.com/in/vincentg/
+Andrew Ng - https://www.linkedin.com/in/andrewyng/
 
