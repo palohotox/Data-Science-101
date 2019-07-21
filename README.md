@@ -58,6 +58,7 @@ https://www.coursera.org/browse/data-science - Online courses on data science
 https://www.kdnuggets.com/ -  Data Science Software/tutorials/discussion
 https://365datascience.com/ - Online courses
 https://course.spacy.io/ - Advance NLP
+https://courses.analyticsvidhya.com/courses/take/Intro-to-NLP/texts/6734588-welcome-to-the-course  - Free courses on data science
 
 
 Experts and Social Influencer
