@@ -60,6 +60,8 @@ https://365datascience.com/ - Online courses
 https://course.spacy.io/ - Advance NLP
 https://courses.analyticsvidhya.com/courses/take/Intro-to-NLP/texts/6734588-welcome-to-the-course  - Free courses on data science
 https://realpython.com/courses/dictionaries-python/ - Python Tutorials 
+https://medium.com/swlh/working-with-spreadsheets-using-python-903202509407 - Working with SpreadSheets
+
 
 
 Experts and Social Influencer
